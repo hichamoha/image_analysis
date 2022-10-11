@@ -11,3 +11,7 @@ In this assignment we will work on line fitting problem using Least Squares meth
 
 ### Assignment 4
 In this assignment we will study \textit{graph cuts for segmentation}, solve a computer vision problem, and make our final version of our own Optical Character Recognition system.
+
+## Literature
+* Szeliski, Computer Vision - Algorithms and Applications, Springer.
+* Forsyth & Ponce, Computer Vision - A Modern Approach, Pearson Education, ISBN 0-13-191193-7.
